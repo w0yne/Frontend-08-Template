@@ -1,0 +1,20 @@
+.traffic-light {
+  background-color: gray;
+  display: inline-block;
+  margin: 30px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.green.light-on {
+  background-color: green;
+}
+
+.yellow.light-on {
+  background-color: yellow;
+}
+
+.red.light-on {
+  background-color: red;
+}
